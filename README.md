@@ -4,12 +4,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F71515&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+repository!" alt="Typing SVG" /></a>
 </p>
 
-Yo, my name is [Aliev Mishan](https://github.com/thecrazymage) and I am a big fan of deep learning, algorithms and OOP. 
+Yo, my name is [Aliev Mishan](https://github.com/thecrazymage), and I am a big fan of deep learning, algorithms, and OOP. 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=336600&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Deep+Learning+RnD;ML+%7C+Algorithms+%7C+OOP" alt="Typing SVG" /></a>
 </p>
 
-Now, I am Data Science Master's student at the HSE University. My goals in life are to constantly learn and try to do the impossible.
+Now, I am a Data Science Master's student at the HSE University. My goals in life are to constantly learn and try to do the impossible.
 
 <p align="center">
    <img width="40%" src="https://media.tenor.com/g4ENLzo1I8MAAAAd/to-infinity-and-buzz-lightyear.gif">
