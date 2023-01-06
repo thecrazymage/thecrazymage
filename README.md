@@ -7,8 +7,7 @@
 - 👨‍🎓 I'm a Data Science Master's student at the HSE University.
 - 👨‍💻 My professional interests are in deep learning RnD, algorithms, and OOP.
 - 🚀 Currently, I'm developing a PyTorch implementation of the text-to-3D model Dreamfusion.
-- 🔮 Chess, soccer, the gym, and running are my hobbies.
-- 🌟 My objectives in life are to continuously learn and attempt the impossible.
+- 🌟 Chess, soccer, the gym, and running are my hobbies.
 - 🌍 I speak Russian (native) and English (B2).
 - 📫 How to reach me: mishan.aliev@yandex.ru.
 - ⚡ See my resume for further details.
