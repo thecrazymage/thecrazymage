@@ -25,7 +25,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="icons\linux.svg" height="30" alt="Linux"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="icons\git.svg" height="30" alt="Git"/></a>
-<a href="https://github.com/thecrazymage" target="_blank" rel="noreferrer"> <img src="icons\github-mark.svg" height="30" alt="GitHub"/></a>
+<a href="https://github.com/thecrazymage" target="_blank" rel="noreferrer"> <img src="icons\github.svg" height="30" alt="GitHub"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="icons\vscode.svg" height="30" alt="VSCode"/></a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="icons\jupyter.svg" height="30" alt="Jupyter"/> </a>
