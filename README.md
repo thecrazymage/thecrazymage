@@ -13,26 +13,26 @@
 - ⚡ See my [resume](https://github.com/thecrazymage/Resume) for further details.
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="icons\c.svg" width="30" alt="C"/> </a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="icons\cplusplus.svg" height="30" alt="C++" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"><img src="icons\python.svg" height="30" alt="Python" /></a>
-<a href="https://julialang.org/" target="_blank" rel="noreferrer"><img src="icons\julia.svg" height="30" alt="Julia" /></a>
-<a href="https://pytorch.org/docs/stable/index.html" target="_blank" rel="noreferrer"><img src="icons\pytorch.svg" height="30" alt="PyTorch" /></a>
-<a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="icons\anaconda.svg" height="30" alt="Anaconda" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="icons\gnu_bash.svg" height="30" alt="Bash"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="icons\linux.svg" height="30" alt="Linux"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="icons\git.svg" height="30" alt="Git"/></a>
-<a href="https://github.com/thecrazymage" target="_blank" rel="noreferrer"> <img src="icons\github.svg" height="30" alt="GitHub"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="icons\vscode.svg" height="30" alt="VSCode"/></a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="icons\jupyter.svg" height="30" alt="Jupyter"/> </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src="icons\colab.svg" height="30" alt="Google Colab" /></a>
-<a href="https://miro.com/" target="_blank" rel="noreferrer"><img src="icons\miro.svg" height="30" alt="Miro" /></a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/microsoft-office" target="_blank" rel="noreferrer"><img src="icons\microsoft_office.svg" height="30" alt="Microsoft Office" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.markdownguide.org/basic-syntax/" target="_blank" rel="noreferrer"><img src="icons\markdown.svg" height="30" alt="Markdown" /></a>
-<a href="https://www.latex-project.org/help/documentation/" target="_blank" rel="noreferrer"><img src="icons\latex.svg" height="30" alt="LATEX" /></a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="icons\c.svg" width="35" alt="C"/> </a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="icons\cplusplus.svg" height="35" alt="C++" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"><img src="icons\python.svg" height="35" alt="Python" /></a>
+<a href="https://julialang.org/" target="_blank" rel="noreferrer"><img src="icons\julia.svg" height="35" alt="Julia" /></a>
+<a href="https://pytorch.org/docs/stable/index.html" target="_blank" rel="noreferrer"><img src="icons\pytorch.svg" height="35" alt="PyTorch" /></a>
+<a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="icons\anaconda.svg" height="35" alt="Anaconda" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="icons\gnu_bash.svg" height="35" alt="Bash"/></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="icons\linux.svg" height="35" alt="Linux"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="icons\git.svg" height="35" alt="Git"/></a>
+<a href="https://github.com/thecrazymage" target="_blank" rel="noreferrer"> <img src="icons\github.svg" height="35" alt="GitHub"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="icons\vscode.svg" height="35" alt="VSCode"/></a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="icons\jupyter.svg" height="35" alt="Jupyter"/> </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src="icons\colab.svg" height="35" alt="Google Colab" /></a>
+<a href="https://miro.com/" target="_blank" rel="noreferrer"><img src="icons\miro.svg" height="35" alt="Miro" /></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/microsoft-office" target="_blank" rel="noreferrer"><img src="icons\microsoft_office.svg" height="35" alt="Microsoft Office" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.markdownguide.org/basic-syntax/" target="_blank" rel="noreferrer"><img src="icons\markdown.svg" height="35" alt="Markdown" /></a>
+<a href="https://www.latex-project.org/help/documentation/" target="_blank" rel="noreferrer"><img src="icons\latex.svg" height="35" alt="LATEX" /></a>
