@@ -10,7 +10,7 @@
 - 🌟 Chess, soccer, the gym, and cycling are my hobbies.
 - 🌍 I speak Russian (native) and English (B2).
 - 📫 How to reach me: mishan.aliev@yandex.ru.
-- ⚡ See my [resume](https://github.com/thecrazymage/Resume) for further details.
+- ⚡ See my [CV](https://github.com/thecrazymage/Resume) for more details.
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="icons\c.svg" width="30" alt="C"/> </a>
