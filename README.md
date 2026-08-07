@@ -42,8 +42,8 @@
 
 </div>
 
-🔬 I'm a **Junior Research Fellow** at the [Centre of Deep Learning and Bayesian Methods](https://bayesgroup.org/), HSE University.
-🎓 I'm a PhD student on the joint **HSE–Yandex doctoral track**.
+- 🔬 I'm a **Junior Research Fellow** at the [Centre of Deep Learning and Bayesian Methods](https://bayesgroup.org/), HSE University.
+- 🎓 I'm a PhD student on the joint **HSE–Yandex doctoral track**.
 - 🧠 My research focuses on **diffusion models for image and video generation, efficient inference, and 3D computer vision**.
 - 📚 I teach deep learning and computer vision at HSE University, develop open-source course materials, and supervise student research projects.
 - 🌍 I speak Russian (native) and English (C1).
