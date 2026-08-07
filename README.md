@@ -42,8 +42,8 @@
 
 </div>
 
-- 🔬 I'm a **Junior Research Fellow** at the [Centre of Deep Learning and Bayesian Methods](https://bayesgroup.org/), HSE University.
-- 🎓 I'm a PhD student on the joint **HSE–Yandex doctoral track**.
+🔬 I'm a **Junior Research Fellow** at the [Centre of Deep Learning and Bayesian Methods](https://bayesgroup.org/), HSE University.
+🎓 I'm a PhD student on the joint **HSE–Yandex doctoral track**.
 - 🧠 My research focuses on **diffusion models for image and video generation, efficient inference, and 3D computer vision**.
 - 📚 I teach deep learning and computer vision at HSE University, develop open-source course materials, and supervise student research projects.
 - 🌍 I speak Russian (native) and English (C1).
@@ -52,9 +52,19 @@
 ### GitHub at a Glance
 
 <p align="center">
-  <img
-    width="68%"
-    src="https://github-stats-extended.vercel.app/api?username=thecrazymage&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight"
-    alt="Mishan Aliev's GitHub statistics"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-stats-extended.vercel.app/api?username=thecrazymage&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-stats-extended.vercel.app/api?username=thecrazymage&show_icons=true&include_all_commits=true&hide_border=true&theme=default"
+    />
+    <img
+      width="68%"
+      src="https://github-stats-extended.vercel.app/api?username=thecrazymage&show_icons=true&include_all_commits=true&hide_border=true&theme=default"
+      alt="Mishan Aliev's GitHub statistics"
+    />
+  </picture>
 </p>
