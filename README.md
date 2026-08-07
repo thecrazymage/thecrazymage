@@ -1,38 +1,60 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/thecrazymage">Mishan Aliev</a>👋</h1>
+<div align="center">
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5204F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" /></a>
+# Hi there, I'm [Mishan Aliev](https://github.com/thecrazymage) 👋
+
+<a href="https://github.com/thecrazymage">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=6F42C1&center=true&vCenter=true&width=850&lines=Generative+AI+Researcher+%40+BayesGroup;Diffusion+Models+%C2%B7+Efficient+Inference+%C2%B7+3D+Vision;Lecturer+%40+HSE+University"
+    alt="Typing SVG"
+  />
+</a>
+
+<p>
+  <img
+    src="https://komarev.com/ghpvc/?username=thecrazymage&label=Profile%20views&color=6f42c1&style=flat"
+    alt="Profile views"
+  />
+  <a href="https://github.com/thecrazymage?tab=followers">
+    <img
+      src="https://img.shields.io/github/followers/thecrazymage?label=Followers&style=flat&color=6f42c1"
+      alt="GitHub followers"
+    />
+  </a>
+  <a href="https://scholar.google.com/citations?user=QJz42PEAAAAJ&hl=en">
+    <img
+      src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=googlescholar&logoColor=white"
+      alt="Google Scholar"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/mishan-aliev">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-mishan--aliev-0A66C2?style=flat&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="https://t.me/MishanAliev">
+    <img
+      src="https://img.shields.io/badge/Telegram-@MishanAliev-26A5E4?style=flat&logo=telegram&logoColor=white"
+      alt="Telegram"
+    />
+  </a>
 </p>
 
-- 👨‍🎓 I'm a PhD student at the HSE University.
-- 👨‍💻 My professional interests are in generative models for images and 3D.
-- 🚀 Currently, I'm working on texture generation for 3D models.
-- 🌟 Chess, soccer, gym, and cycling are my hobbies.
-- 🌍 I speak Russian (native) and English (B2).
-- 📫 How to reach me: mishan.aliev@yandex.ru.
-- ⚡ See my [CV](https://github.com/thecrazymage/Resume) for more details.
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="icons\c.svg" width="30" alt="C"/> </a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="icons\cplusplus.svg" height="30" alt="C++" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"><img src="icons\python.svg" height="30" alt="Python" /></a>
-<a href="https://julialang.org/" target="_blank" rel="noreferrer"><img src="icons\julia.svg" height="30" alt="Julia" /></a>
-<a href="https://pytorch.org/docs/stable/index.html" target="_blank" rel="noreferrer"><img src="icons\pytorch.svg" height="30" alt="PyTorch" /></a>
-<a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="icons\anaconda.svg" height="30" alt="Anaconda" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="icons\gnu_bash.svg" height="30" alt="Bash"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="icons\linux.svg" height="30" alt="Linux"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="icons\git.svg" height="30" alt="Git"/></a>
-<a href="https://github.com/thecrazymage" target="_blank" rel="noreferrer"> <img src="icons\github.svg" height="30" alt="GitHub"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="icons\vscode.svg" height="30" alt="VSCode"/></a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="icons\jupyter.svg" height="30" alt="Jupyter"/> </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src="icons\colab.svg" height="30" alt="Google Colab" /></a>
-<a href="https://miro.com/" target="_blank" rel="noreferrer"><img src="icons\miro.svg" height="30" alt="Miro" /></a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/microsoft-office" target="_blank" rel="noreferrer"><img src="icons\microsoft_office.svg" height="30" alt="Microsoft Office" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.markdownguide.org/basic-syntax/" target="_blank" rel="noreferrer"><img src="icons\markdown.svg" height="30" alt="Markdown" /></a>
-<a href="https://www.latex-project.org/help/documentation/" target="_blank" rel="noreferrer"><img src="icons\latex.svg" height="30" alt="LATEX" /></a>
+- 🔬 I'm a **Junior Research Fellow** at the [Centre of Deep Learning and Bayesian Methods](https://bayesgroup.org/), HSE University.
+- 🎓 I'm a PhD student on the joint **HSE–Yandex doctoral track**.
+- 🧠 My research focuses on **diffusion models for image and video generation, efficient inference, and 3D computer vision**.
+- 📚 I teach deep learning and computer vision at HSE University, develop open-source course materials, and supervise student research projects.
+- 🌍 I speak Russian (native) and English (C1).
+- ⚡ See my [CV](https://github.com/thecrazymage/Resume/blob/main/CV_Aliev_Mishan.pdf) for more details.
+
+### GitHub at a Glance
+
+<p align="center">
+  <img
+    width="68%"
+    src="https://github-stats-extended.vercel.app/api?username=thecrazymage&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight"
+    alt="Mishan Aliev's GitHub statistics"
+  />
+</p>
